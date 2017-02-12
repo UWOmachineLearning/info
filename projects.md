@@ -18,6 +18,9 @@ https://www.kaggle.com/c/data-science-bowl-2017
 ## Realistic Neural Network Playing Video Game
 The goal of this project is to create a realistic neural network that learns how to play video games such as Atari games. This will be closely linked to the Deepmind group approach in their [2015 Nature paper](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html), but will use realistic neural networks instead (e.g. https://arxiv.org/abs/1510.08829). 
 
+Members : 
+  + Philippe (ph.castonguay@gmail.com)
+
 # Project Suggestions
 This is a brief list containing of machine learning project suggestions.
 
