@@ -1,16 +1,25 @@
 # Active Projects
 This is the list of all the projects currently active. 
 
-# Project Suggestions
-This is a brief list containing of machine learning project suggestions.
+## Medical Images Segmentation
 
-## Cancer Lunge Detection (Kaggle)
+## Lung Cancer Prognostic
 
 "Using a data set of thousands of high-resolution lung scans provided by the National Cancer Institute, participants will develop algorithms that accurately determine when lesions in the lungs are cancerous. This will dramatically reduce the false positive rate that plagues the current detection technology, get patients earlier access to life-saving interventions, and give radiologists more time to spend with their patients.
 
 This year, the Data Science Bowl will award $1 million in prizes to those who observe the right patterns, ask the right questions, and in turn, create unprecedented impact around cancer screening care and prevention. The funds for the prize purse will be provided by the Laura and John Arnold Foundation."
 
 https://www.kaggle.com/c/data-science-bowl-2017
+
+## Meteor Detections
+
+## Sleep vs Awake States with fMRI and EEG
+
+## Realistic Neural Network Playing Video Game
+The goal of this project is to create a realistic neural network that learns how to play video games such as Atari games. This will be closely linked to the Deepmind group approach in their [2015 Nature paper](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html), but will use realistic neural networks instead (e.g. https://arxiv.org/abs/1510.08829). 
+
+# Project Suggestions
+This is a brief list containing of machine learning project suggestions.
 
 
 ## Fish Specie Detection (Kaggle)
