@@ -59,10 +59,6 @@ http://imgur.com/a/ue6ap
 Weather forcast has always been a scientific challenge and this is even more true when it comes to natural disasters such as earthquakes, volcano eruptions and hurricanes. 
 
 
-## AI Playing Board or Video Game
-
-Deepmind proved that [Go](https://deepmind.com/research/alphago/) was no obstacle for machines and now they are tackling one of the most difficult competitive video game [Starcraft II](https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/).
-
 
 ## Predicting Stock Market
 
