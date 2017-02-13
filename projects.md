@@ -1,4 +1,6 @@
-# Active Projects
+```diff
++ # Active Projects
+```
 This is the list of all the projects currently active. 
 
 ## Medical Images Segmentation
