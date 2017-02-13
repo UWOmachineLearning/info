@@ -22,7 +22,10 @@ The goal of this project is to create a realistic neural network that learns how
 Members : 
   + Philippe (ph.castonguay@gmail.com)
 
+
 ___
+___
+
 
 # Project Suggestions
 This is a brief list containing of machine learning project suggestions.
@@ -67,6 +70,8 @@ One could exploit both the stock market data and the web in general to make stoc
 http://www.csidata.com/?page_id=10
 https://www.quantnet.com/threads/master-list-of-free-financial-data.1036/
 
+___
+___
 
 
 # Databases
