@@ -21,6 +21,8 @@ The goal of this project is to create a realistic neural network that learns how
 
 Members : 
   + Philippe (ph.castonguay@gmail.com)
+  + Etay Hay (etay.hay@gmail.com)
+  + Matthew William Podolak (mpodola2@uwo.ca )
 
 
 ___
