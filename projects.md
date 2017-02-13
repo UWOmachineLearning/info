@@ -1,6 +1,5 @@
-```diff
-+ # Active Projects
-```
+# Active Projects
+
 This is the list of all the projects currently active. 
 
 ## Medical Images Segmentation
@@ -23,7 +22,9 @@ The goal of this project is to create a realistic neural network that learns how
 Members : 
   + Philippe (ph.castonguay@gmail.com)
 
-___
+```diff 
++ ___
+```
 
 # Project Suggestions
 This is a brief list containing of machine learning project suggestions.
