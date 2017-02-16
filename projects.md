@@ -2,10 +2,12 @@
 
 This is the list of all the projects currently active. 
 
-### Image Simulation 
+### Image Simulation
+
 
 Members :
  + Patricia Johnson (pjohnson@robarts.ca)
+ + Eric Lessard (elessar@uwo.ca)
 
 
 
@@ -21,6 +23,7 @@ Members :
   + Justin Langille (justin.langille@hotmail.com)
   + Jonathan Erez (jonathan.erez@gmail.com)
   + Max Silverbrook (max.silberbrook@gmail.com)
+  + 
 
 
 ### Sleep vs Awake States with fMRI and EEG
@@ -35,7 +38,7 @@ Members :
   + Philippe (ph.castonguay@gmail.com)
   + Etay (etay.hay@gmail.com)
   + Matthew (mpodola2@uwo.ca )
-
+  + Dimitri Palidis (dpalidis@uwo.ca)
 
 ___
 ___
