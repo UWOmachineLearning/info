@@ -2,7 +2,12 @@
 
 This is the list of all the projects currently active. 
 
-### Medical Images Segmentation
+### Image Simulation 
+
+Members :
+ + Patricia Johnson (pjohnson@robarts.ca)
+
+
 
 ### Lung Cancer Prognostic
 
@@ -11,6 +16,9 @@ This is the list of all the projects currently active.
 This year, the Data Science Bowl will award $1 million in prizes to those who observe the right patterns, ask the right questions, and in turn, create unprecedented impact around cancer screening care and prevention. The funds for the prize purse will be provided by the Laura and John Arnold Foundation."
 
 https://www.kaggle.com/c/data-science-bowl-2017
+
+Members :
+  + Justin Langille (justin.langille@hotmail.com)
 
 
 ### Sleep vs Awake States with fMRI and EEG
