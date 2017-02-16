@@ -12,7 +12,6 @@ This year, the Data Science Bowl will award $1 million in prizes to those who ob
 
 https://www.kaggle.com/c/data-science-bowl-2017
 
-### Meteor Detections
 
 ### Sleep vs Awake States with fMRI and EEG
 
@@ -32,6 +31,8 @@ ___
 # Project Suggestions
 This is a brief list containing of machine learning project suggestions.
 
+### Astonomical Objects Detection
+Being able to detect and identify astonomical objects such as asteroids, black holes, exoplanets, quasars, etc. 
 
 ### Fish Specie Detection (Kaggle)
 
