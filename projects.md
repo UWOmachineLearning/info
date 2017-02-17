@@ -4,11 +4,11 @@ This is the list of all the projects currently active.
 
 ### Image Simulation
 
-
 Members :
  + Patricia Johnson (pjohnson@robarts.ca)
  + Eric Lessard (elessar@uwo.ca)
-
+ + Amy Schranz (aschranz@uwo.ca)
+ + Andrew Harris (aharr8@uwo.ca)
 
 
 ### Lung Cancer Prognostic
@@ -23,8 +23,7 @@ Members :
   + Justin Langille (justin.langille@hotmail.com)
   + Jonathan Erez (jonathan.erez@gmail.com)
   + Max Silverbrook (max.silberbrook@gmail.com)
-  + 
-
+  
 
 ### Sleep vs Awake States with fMRI and EEG
 
