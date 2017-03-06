@@ -3,12 +3,14 @@
 This is the list of all the projects currently active. 
 
 ### Image Simulation
+Convertion T1 images to T2 images (fMRI) using neural networks.  
 
 Members :
  + Patricia Johnson (pjohnson@robarts.ca)
  + Eric Lessard (elessar@uwo.ca)
  + Amy Schranz (aschranz@uwo.ca)
  + Andrew Harris (aharr8@uwo.ca)
+ + Olivia Stanley (ostanle2@uwo.ca)
 
 
 ### Lung Cancer Prognostic
@@ -27,7 +29,9 @@ Members :
 
 ### Sleep vs Awake States with fMRI and EEG
 
- Members 
+Members :
+ + Mahnaz Rabbani (mahnaz.rabbani@gmail.com)
+ + Sima Hoseingholizade (shoseing@uwo.ca)
 
 
 ### Realistic Neural Network Playing Video Game
