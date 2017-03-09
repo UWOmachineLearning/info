@@ -1,6 +1,6 @@
 # Active Projects
 
-This is the list of all the projects currently active. 
+This is the list of all the projects currently active. Note that the member list is not exhaustive.
 
 ### Image Simulation
 Convertion T1 images to T2 images (fMRI) using neural networks.  
