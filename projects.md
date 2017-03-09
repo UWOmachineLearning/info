@@ -42,6 +42,35 @@ Members :
   + Etay (etay.hay@gmail.com)
   + Matthew (mpodola2@uwo.ca )
   + Dimitri Palidis (dpalidis@uwo.ca)
+  + Jarvis Zhu (zhu338@uwo.ca)
+  + Yifan Li (yli2763@uwo.ca)
+  + Rallis Karamichalis (rkaramic@uwo.ca)
+
+
+### Classifying good soccer (football) players based on videos
+Analyzing the best football players with videos and analyzing other players with the knowledge. 
+
+Members:
+  + Amenyo komla Folitse (foliamenyo@hotmail.com)
+  
+  
+### Predicting Stock Market
+Predicting the stock market with online available data, such as ; 
+
+http://www.csidata.com/?page_id=10
+https://www.quantnet.com/threads/master-list-of-free-financial-data.1036/
+
+Members: 
+   + Yidan Zhu (yzhu495@uwo.ca)
+   
+
+### Converting a song to a different gender
+Creating a model that would take songs and convert them to a specific gender (e.g. metal).
+
+See [DeepBach](https://goo.gl/51pAvD), the generative model that creates its own song inspired by Bach!
+
+Members:
+   + Vivian Wu (ywu654@uwo.ca)
 
 ___
 ___
@@ -60,13 +89,6 @@ Being able to detect and identify astonomical objects such as asteroids, black h
 https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring
 
 
-### Model Generating Music
-
-Creating a generative model that can create it's own music, perhaps inspired by Mozart?
-
-https://goo.gl/51pAvD 
-
-
 ### Election Predictions Based on Social Medias
 
 Polls trying to predict elections turn out tend to be poor predictors of actual outcomes. One could use machine learning to harverst the content on the web in order to predict election outcomes in various countries. 
@@ -82,15 +104,6 @@ http://imgur.com/a/ue6ap
 ### Earthquakes/Weather Forcasting 
 
 Weather forcast has always been a scientific challenge and this is even more true when it comes to natural disasters such as earthquakes, volcano eruptions and hurricanes. 
-
-
-
-### Predicting Stock Market
-
-One could exploit both the stock market data and the web in general to make stock market predictions.
-
-http://www.csidata.com/?page_id=10
-https://www.quantnet.com/threads/master-list-of-free-financial-data.1036/
 
 ___
 ___
