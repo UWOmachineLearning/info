@@ -47,8 +47,12 @@ Members :
   + Rallis Karamichalis (rkaramic@uwo.ca)
 
 
-### Classifying good soccer (football) players based on videos
-Analyzing the best football players with videos and analyzing other players with the knowledge. 
+### A neural-based approach to answering questions about soccer video
+
+We want to propose a Neural-video-QA based on the approach described in the link below.
+The idea is using a certain model (we have to find out which one) that first gets to observe video content of some of the most greatest soccer players in the world and is trained to afterwards generate an answer based on video content as well as natural language input.
+
+See this [article](https://www.d2.mpi-inf.mpg.de/sites/default/files/iccv15-neural_qa.pdf) for more information on QA neural networks. 
 
 Members:
   + Amenyo komla Folitse (foliamenyo@hotmail.com)
