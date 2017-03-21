@@ -68,8 +68,8 @@ Members:
    + Yidan Zhu (yzhu495@uwo.ca)
    
 
-### Converting a song to a different gender
-Creating a model that would take songs and convert them to a specific gender (e.g. metal).
+### Converting a song to a different genre
+Creating a model that would take songs and convert them to a specific genre (e.g. metal).
 
 See [DeepBach](https://goo.gl/51pAvD), the generative model that creates its own song inspired by Bach!
 
